@@ -8,9 +8,6 @@ library(tidyr)
 library(expsmooth)
 library(fpp)
 
-#Set Working directory
-#setwd("~/Acad/UTD/BUAN 6356 - BA With R - Indranil Bardhan/Project")
-
 #By Month total sales plot ---------
 #norway_cars <- read.csv('norway_new_car_sales_by_month_v1.2.csv')
 library(dplyr)
